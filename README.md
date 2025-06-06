@@ -1,5 +1,7 @@
 # 💫 Hello World! :
-🔭I'm currently working on Full-Stack Projects<br>👯I'm looking to collaborate on WebRTC<br><br>⚡Fun fact: I can talk endlessly on Tech Updates and Gaming.
+🔭I'm currently working on Full-Stack Projects
+/*<br>👯I'm looking to collaborate on WebRTC<br>*/
+<br>⚡Fun fact: I can talk endlessly on Tech Updates and Gaming.
 
 
 ## 🌐 Socials:
