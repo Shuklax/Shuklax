@@ -4,7 +4,8 @@
 
 <div align="center">
 
-A <strong>Full Stack Developer</strong> who is ✨ passionate ✨ about computer science. I'm making projects or learning something just about every day. I love to explore new technologies and try to solve real-life problems ✨ .
+A <strong>Full Stack Developer</strong> who is ✨ passionate ✨ about computer science.
+Interested in compilers, infrastructure, AI, and real-world problem solving.
 
 </div>
 
