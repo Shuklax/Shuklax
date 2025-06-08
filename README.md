@@ -5,7 +5,7 @@
 <div align="center">
 
 A <strong>Full Stack Developer</strong> who is ✨ passionate ✨ about computer science.
-Interested in compilers, infrastructure, AI, and real-world problem solving.
+<br>Interested in compilers, infrastructure, AI, and real-world problem solving.</br>
 
 </div>
 
