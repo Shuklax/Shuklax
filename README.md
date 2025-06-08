@@ -102,5 +102,5 @@ A <strong>Full Stack Developer</strong> who is ✨ passionate ✨ about computer
 <a  href="https://www.discord.com/users/pheonix3880/"  target="_blank"> <img  src="https://img.shields.io/badge/Discord-1a1b27?&style=for-the-badge&logo=discord&logoColor=FFFFFF"  t=instagram  style="margin-bottom: 5px;" />  </a>
 <!-- <a  href="https://www.instagram.com/n4ryn._/"  target="_blank">  <img  src="https://img.shields.io/badge/instagram-1a1b27?&style=for-the-badge&logo=instagram&logoColor=FFFFFF"  t=instagram  style="margin-bottom: 5px;" />  </a> -->
 <a  href="https://linkedin.com/in/Shuklax"  target="_blank">  <img  src="https://img.shields.io/badge/linkedin-1a1b27?&style=for-the-badge&logo=linkedin&logoColor=FFFFFF"  style="margin-bottom: 5px;" />  </a>
-<img src="https://komarev.com/ghpvc/?username=n4ryn&style=for-the-badge&color=1a1b27" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Shuklax&style=for-the-badge&color=1a1b27" alt="Profile Views" />
 </p>
