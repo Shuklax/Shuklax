@@ -78,26 +78,7 @@ A <strong>Full Stack Developer</strong> who is ✨ passionate ✨ about computer
 
 <img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h3 align="center"><img  src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"  width="25">  <b>Github Stats</b><h3>
-
-<p align="left">
-
-<a  href="https://github.com/Shuklax">
-
-<img  width="49.5%"  src="https://github-readme-stats.vercel.app/api?username=Shuklax&show_icons=true&theme=tokyonight&hide_border=true" />
-<img  width="49.5%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Shuklax&theme=tokyonight&hide_border=true" />
-
-</a>
-
 </p>
-
-<p align="center">
-
-<a  href="https://github.com/Shuklax"><img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shuklax&theme=tokyonight&hide_border=true"  width="100%"  alt="Vinay Kumar"/></a>
-
-</p>
-
-<img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h3 align="center">Connect with me :handshake:</h3>
 
